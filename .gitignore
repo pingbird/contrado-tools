@@ -1,0 +1,7 @@
+# Dart stuff
+.dart_tool/
+pubspec.lock
+
+# IntelliJ stuff
+.idea/
+*.iml
